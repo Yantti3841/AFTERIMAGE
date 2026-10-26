@@ -1,0 +1,9 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "AFTERIMAGE 余像",
+    "navigationBarBackgroundColor": "#080607",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#080607"
+  }
+}
